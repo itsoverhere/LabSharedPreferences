@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LabSharedPreferences</string>
+    <string name="title_activity_log_in_activty">LogInActivty</string>
+    <string name="change_username"><u>Not you? Click here.</u></string>
+</resources>
